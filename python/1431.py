@@ -16,4 +16,3 @@ class Solution(object):
             else:
                 res.append(False)
         return res
-        
