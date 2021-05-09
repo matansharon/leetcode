@@ -10,4 +10,3 @@ def defangIPaddr(self, address):
             else:
                 res+=i
         return res
-        
