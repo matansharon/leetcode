@@ -29,34 +29,27 @@
 # All characters in words[i] and order are English lowercase letters.
 
 class Solution(object):
-    def compare_words(self,word1,word2,order):
-        if word1==word2:
-            return 0
-        for i in range(len(word1)):
-            if i==len(word2):
-                break
-            p1=order.index(word1[i])
-            p2=order.index(word2[i])
-            
-            if p1>p2:
-                return 1
-            if p2>p1:
-                return -1
-        print '---------------------'
-        
     def isAlienSorted(self, words, order):
         """
         :type words: List[str]
         :type order: str
         :rtype: bool
         """
-        temp=list(words)
-        
-        print words
-        
-        for i in range(len(words)-1):
-            t=self.compare_words(words[i],words[i+1],order)
-            print t
-            
-            
-            
+        order_map = {}
+        for index, val in enumerate(order):
+            order_map[val] = index
+
+        for i in range(len(words) - 1):
+
+            for j in range(len(words[i])):
+                # If we do not find a mismatch letter between words[i] and words[i + 1],
+                # we need to examine the case when words are like ("apple", "app").
+                if j >= len(words[i + 1]): return False
+
+                if words[i][j] != words[i + 1][j]:
+                    if order_map[words[i][j]] > order_map[words[i + 1][j]]: return False
+                    # if we find the first different character and they are sorted,
+                    # then there's no need to check remaining letters
+                    break
+
+        return True
