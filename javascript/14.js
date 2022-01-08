@@ -26,6 +26,10 @@
  * @param {string[]} strs
  * @return {string}
  */
+/**
+ * @param {string[]} strs
+ * @return {string}
+ */
 const longestCommonPrefix = function (strs) {
   let min = Number.MAX_VALUE;
   let short = "";
@@ -39,7 +43,21 @@ const longestCommonPrefix = function (strs) {
   let shortest = all_prefix(short);
   let res = "";
   console.log(shortest);
-  shortest.forEach((perfix) => {});
+  shortest.forEach((short) => {
+    let all_true = true;
+    strs.forEach((str) => {
+      if (!str.includes(short)) {
+        all_true = false;
+      }
+    });
+    if (all_true) {
+      console.log(short);
+      if (short.length > res.length) {
+        res = short;
+      }
+    }
+  });
+  return res;
 };
 
 const all_prefix = function (str) {
@@ -56,4 +74,6 @@ const all_prefix = function (str) {
   return arr;
 };
 
-console.log(longestCommonPrefix(["matan", "raz", "romi", "my"]));
+console.log(
+  longestCommonPrefix(["mmatttan", "mmrtttaz", "romtttmi", "mmtttay"])
+);
