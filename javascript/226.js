@@ -24,6 +24,9 @@
 // -100 <= Node.val <= 100
 
 
+const randint = (val) => {
+  return Math.floor(Math.random() * val);
+};
 class TreeNode {
   constructor(val) {
     this.val = val;
@@ -89,3 +92,8 @@ const invertTree = (root) => {
   root.right = left;
   return root;
 };
+//--------------------main----------------------------------------------------
+let head = random_Tree();
+print_tree_inorder(head);
+invertTree(head);
+print_tree_inorder(head);
