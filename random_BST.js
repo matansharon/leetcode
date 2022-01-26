@@ -8,38 +8,43 @@ class TreeNode {
     this.right = null;
   }
 }
-const random_BST = () => {
-  let len = randint(40);
-  let arr = new Array(randint(len * 2)).fill(null);
 
+const random_BST_rec = () => {
+  let len = randint(30);
   console.log(len);
-  arr[1] = randint(50) + 50;
+  let root = new TreeNode(randint(50) + 30);
 
-  for (let i = 1; i < len; i++) {
-    if (arr[i * 2] === null) {
-      arr[i * 2] = arr[i] - randint(10);
+  const walk = (node) => {
+    node.left = new TreeNode(node.val - randint(10));
+
+    node.right = new TreeNode(node.val + randint(10));
+    if (Math.random() > 0.5) {
+      walk(node.left);
     }
-    if (arr[i * 2 + 1] === null) {
-      arr[i * 2 + 1] = randint(10) + arr[i];
+    if (Math.random() > 0.5) {
+      walk(node.right);
     }
-  }
-  for (let i = 1; i < len; i++) {
-    let temp = arr[i];
-    arr[i] = new TreeNode(temp);
-  }
-  let len1 = arr.length - 1;
-  for (let i = 1; i < len1; i++) {
-    if (i * 2 <= len1) {
-      arr[i].left = arr[i * 2];
-    }
-    if (i * 2 + 1 <= len1) {
-      arr[i].right = arr[i * 2 + 1];
-    }
-  }
-  // console.log(arr);
-  return arr[1];
+  };
+  walk(root);
+  return root;
 };
+const inorder_traverse = (root) => {
+  let arr = [];
 
+  const walk = (node) => {
+    if (node === null) {
+      return;
+    }
+    walk(node.left);
+    arr.push(node.val);
+    walk(node.right);
+  };
+  walk(root);
+  console.log(arr);
+};
 //--------------------main----------------------------------------------------
-let root = random_BST();
+// let root = random_BST();
+// console.log(root);
+let root = random_BST_rec();
 console.log(root);
+inorder_traverse(root);
