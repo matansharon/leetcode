@@ -67,4 +67,24 @@ console.log(
 );
 
 
+//-----------------------------------complete solution--------------------------------7/2/22----------------------------------------
+
+const isIsomorphic = (s, t) => {
+  let map_s_t = new Map();
+  let map_t_s = new Map();
+  for (let i = 0; i < s.length; i++) {
+    if (!map_t_s.has(t[i]) && !map_s_t.has(s[i])) {
+      map_t_s.set(t[i], s[i]);
+      map_s_t.set(s[i], t[i]);
+    } else if (map_s_t.get(s[i]) !== t[i] || map_t_s.get(t[i]) !== s[i]) {
+      return false;
+    }
+  }
+
+  console.log(map_s_t);
+  console.log(map_t_s);
+  return true;
+};
+//--------------------main----------------------------------------------------------------------
+console.log(isIsomorphic("foo", "bar"));
 
