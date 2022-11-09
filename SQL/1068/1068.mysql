@@ -1,0 +1,4 @@
+select p.PRODUCT_NAME ,s."YEAR" ,s.PRICE 
+from MATAN.PRODUCT p 
+join MATAN.SALES s 
+on p.PRODUCT_ID =s.PRODUCT_ID 
