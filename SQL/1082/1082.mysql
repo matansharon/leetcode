@@ -1,0 +1,12 @@
+WITH SalesTotal AS (
+    SELECT seller_id, SUM(price) AS profit
+    FROM Sales
+    GROUP BY seller_id
+    
+)
+SELECT seller_id
+FROM SalesTotal
+WHERE profit = (
+    SELECT MAX(profit)
+    FROM SalesTotal
+)
