@@ -69,7 +69,7 @@ if __name__ == '__main__':
     #build some input test case
     head=s.generate_list()
     s.reverseKGroup(head,3)
-        
+      
 
         
     
