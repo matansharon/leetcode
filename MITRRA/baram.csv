@@ -1,0 +1,206 @@
+"LOCATION","DESCRIPTION","RESPONSABLE"
+DALTON-RMA,חומרי גלם - פולימרים בדלתון ! ,BOAZ.H    
+HET       ,חימום                         ,BOAZ.H    
+HET-DEV   ,חימום של פריטים בפיתוח        ,BOAZ.H    
+HETH      ,חימום                         ,BOAZ.H    
+SCRAP-INJ ,פחת ייצור הזרקה לפני איפוס    ,BOAZ.H    
+SILO-CHG  ,"סילו ח""ג וצבעים - לוט חדש     ",BOAZ.H    
+SILO-VIRT ,"סילו ח""ג וצבע - שאריות לאיפוס ",BOAZ.H    
+SILO1     ,"סילו ח""ג וצבעים               ",BOAZ.H    
+SILO2     ,"סילו ח""ג וצבעים בהחלפה        ",BOAZ.H    
+SILO3     ,"סילו ח""ג וצבעים בהחלפה        ",BOAZ.H    
+SILO4     ,"סילו ח""ג וצבעים בהחלפה        ",BOAZ.H    
+ZANAV     ,איתור לשאריות ייצור לפני איפוס,BOAZ.H    
+BSILORM01 ,"100101  LEXAN HP3REU 1H9D036T ",BOAZ.H    
+BSILORM02 ,"100102 LEXAN HP6REU 1H9D036T .",BOAZ.H    
+BSILORM03 ,"100108 MAKROLON RX 2530 451118",BOAZ.H    
+BSILORM04 ,"100111 MAKROLON RX 1805  45111",BOAZ.H    
+BSILORM05 ,"100112 MAKROLON 3158 550115 CL",BOAZ.H    
+BSILORM06 ,RM06 TRITAN COPOLYESTER MX731 ,BOAZ.H    
+BSILORM07 ,"100153TRITAN COPOLYESTER MX711",BOAZ.H    
+BSILORM08 ,"100219 KRAIBURG TPE TM7MED    ",BOAZ.H    
+BSILORM09 ,"100407 TERLUX 2822 HD         ",BOAZ.H    
+BSILORM10 ,"100901 UDEL P-1700 CL 2611    ",BOAZ.H    
+BSILORM11 ,"101004 Grilamid TR XE 4269 v  ",BOAZ.H    
+BSILORM12 ,"101302 SANTOPRENE 8211-55B100 ",BOAZ.H    
+BSILORM13 ,"101306 SANTOPRENE 281-55 MED  ",BOAZ.H    
+BSILORM14 ,"101312 SANTOPRENE 8281-90MED  ",BOAZ.H    
+BSILORM15 ,"100405 ABS STAREX HG 0760GP ..",BOAZ.H    
+BSILORM16 ,"100406 ABS STAREX HG0760...   ",BOAZ.H    
+BSILORM17 ,"100303 ABS STAREX HG0760Gp N..",BOAZ.H    
+BSILORM18 ,"100304 ABS STAREX HG 0760 GPW.",BOAZ.H    
+BSILORM19 ,"100311 PBT GREEN              ",BOAZ.H    
+BSILORM20 ,BSILORM20                     ,BOAZ.H    
+BSILORM21 ,BSILORM21                     ,BOAZ.H    
+BSILORM101,"100101 -  HP3REU 1H9D036T 655 ",BOAZ.H    
+BSILORM102,"100102 LEXAN HP6REU 1H9D036T .",BOAZ.H    
+BSILORM103,"100108 MAKROLON RX 2530 451118",BOAZ.H    
+BSILORM104,"100111 MAKROLON RX 1805  45111",BOAZ.H    
+BSILORM105,"100112 MAKROLON 3158 550115 CL",BOAZ.H    
+BSILORM106,RM106 TRITAN COPOLYESTER MX731,BOAZ.H    
+BSILORM107,"100153TRITAN COPOLYESTER MX711",BOAZ.H    
+BSILORM108,"100219 KRAIBURG TPE TM7MED    ",BOAZ.H    
+BSILORM109,"100407 TERLUX 2822 HD         ",BOAZ.H    
+BSILORM110,"100901 UDEL P-1700 CL 2611    ",BOAZ.H    
+BSILORM111,"101004 Grilamid TR XE 4269 v  ",BOAZ.H    
+BSILORM112,"101302 SANTOPRENE 8211-55B100 ",BOAZ.H    
+BSILORM113,"101306 SANTOPRENE 281-55 MED  ",BOAZ.H    
+BSILORM114,"101312 SANTOPRENE 8281-90MED  ",BOAZ.H    
+BSILORM115,"100405 ABS STAREX HG 0760GP ..",BOAZ.H    
+BSILORM116,"100406 ABS STAREX HG0760...   ",BOAZ.H    
+BSILORM117,"100303 ABS STAREX HG0760Gp N..",BOAZ.H    
+BSILORM118,"100304 ABS STAREX HG 0760 GPW.",BOAZ.H    
+BSILORM119,"100311 PBT GREEN              ",BOAZ.H    
+BSILORM120,BSILORM120                    ,BOAZ.H    
+BSILORM121,BSILORM121                    ,BOAZ.H    
+BSILOP1   ,BSILOP1                       ,BOAZ.H    
+BSILOP2   ,BSILOP2                       ,BOAZ.H    
+BSILOP3   ,BSILOP3                       ,BOAZ.H    
+BSILOP4   ,BSILOP4                       ,BOAZ.H    
+BSILOP5   ,BSILOP5                       ,BOAZ.H    
+BSILOP6   ,BSILOP6                       ,BOAZ.H    
+BSILOP7   ,BSILOP7                       ,BOAZ.H    
+BSILOP8   ,BSILOP8                       ,BOAZ.H    
+BSILOP9   ,BSILOP9                       ,BOAZ.H    
+BSILOP10  ,BSILOP10                      ,BOAZ.H    
+BSILOP11  ,BSILOP11                      ,BOAZ.H    
+BSILOP12  ,BSILOP12                      ,BOAZ.H    
+BSILOP13  ,BSILOP13                      ,BOAZ.H    
+BSILOP14  ,BSILOP14                      ,BOAZ.H    
+BSILOP15  ,BSILOP15                      ,BOAZ.H    
+BSILOP16  ,BSILOP16                      ,BOAZ.H    
+BSILOP17  ,BSILOP17                      ,BOAZ.H    
+BSILOP18  ,BSILOP18                      ,BOAZ.H    
+BSILOP19  ,BSILOP19                      ,BOAZ.H    
+BSILOP20  ,BSILOP20                      ,BOAZ.H    
+BSILOP21  ,BSILOP21                      ,BOAZ.H    
+BSILOP22  ,BSILOP22                      ,BOAZ.H    
+BSILOP23  ,BSILOP23                      ,BOAZ.H    
+BSILOP24  ,BSILOP24                      ,BOAZ.H    
+BSILOP25  ,BSILOP25                      ,BOAZ.H    
+BSILOP26  ,BSILOP26                      ,BOAZ.H    
+BSILOP27  ,BSILOP27                      ,BOAZ.H    
+BSILOP28  ,BSILOP28                      ,BOAZ.H    
+BSILOP29  ,BSILOP29                      ,BOAZ.H    
+BSILOP30  ,BSILOP30                      ,BOAZ.H    
+BSILOP31  ,BSILOP31                      ,BOAZ.H    
+BSILOP32  ,BSILOP32                      ,BOAZ.H    
+BSILOP101 ,BSILOP101                     ,BOAZ.H    
+BSILOP102 ,BSILOP102                     ,BOAZ.H    
+BSILOP103 ,BSILOP103                     ,BOAZ.H    
+BSILOP104 ,BSILOP104                     ,BOAZ.H    
+BSILOP105 ,BSILOP105                     ,BOAZ.H    
+BSILOP106 ,BSILOP106                     ,BOAZ.H    
+BSILOP107 ,BSILOP107                     ,BOAZ.H    
+BSILOP108 ,BSILOP108                     ,BOAZ.H    
+BSILOP109 ,BSILOP109                     ,BOAZ.H    
+BSILOP110 ,BSILOP110                     ,BOAZ.H    
+BSILOP111 ,BSILOP111                     ,BOAZ.H    
+BSILOP112 ,BSILOP112                     ,BOAZ.H    
+BSILOP113 ,BSILOP113                     ,BOAZ.H    
+BSILOP114 ,BSILOP114                     ,BOAZ.H    
+BSILOP115 ,BSILOP115                     ,BOAZ.H    
+BSILOP116 ,BSILOP116                     ,BOAZ.H    
+BSILOP117 ,BSILOP117                     ,BOAZ.H    
+BSILOP118 ,BSILOP118                     ,BOAZ.H    
+BSILOP119 ,BSILOP119                     ,BOAZ.H    
+BSILOP120 ,BSILOP120                     ,BOAZ.H    
+BSILOP121 ,BSILOP121                     ,BOAZ.H    
+BSILOP122 ,BSILOP122                     ,BOAZ.H    
+BSILOP123 ,BSILOP123                     ,BOAZ.H    
+BSILOP124 ,BSILOP124                     ,BOAZ.H    
+BSILOP125 ,BSILOP125                     ,BOAZ.H    
+BSILOP126 ,BSILOP126                     ,BOAZ.H    
+BSILOP127 ,BSILOP127                     ,BOAZ.H    
+BSILOP128 ,BSILOP128                     ,BOAZ.H    
+BSILOP129 ,BSILOP129                     ,BOAZ.H    
+BSILOP130 ,BSILOP130                     ,BOAZ.H    
+BSILOP131 ,BSILOP131                     ,BOAZ.H    
+BSILOP132 ,BSILOP132                     ,BOAZ.H    
+R01-100101,"100101  LEXAN HP3REU 1H9D036T ",BOAZ.H    
+BPGM      ,חומר גלם                      ,BOAZ.H    
+BSILORM22 ,BSILORM22                     ,BOAZ.H    
+BSILORM23 ,BSILORM23                     ,BOAZ.H    
+BSILORM24 ,BSILORM24                     ,BOAZ.H    
+BSILORM25 ,BSILORM25                     ,BOAZ.H    
+BSILORM26 ,BSILORM26                     ,BOAZ.H    
+BSILORM27 ,BSILORM27                     ,BOAZ.H    
+BSILORM28 ,BSILORM28                     ,BOAZ.H    
+LAB       ,מעבדה בברעם.                  ,FATINA.G  
+STABILITY ,"מוצרים ל Stability באחריות ה""א",FATINA.G  
+BA        ,אריזה נקיה                    ,GABI.A    
+BABAD     ,אריזה נקיה - להשמדה           ,GABI.A    
+BADEV     ,אריזה לפריטים בפיתוח (DEV)    ,GABI.A    
+BARS      ,אריזה חוזרת למעוקרים - ללא קרט,GABI.A    
+HZR       ,אריזה נקיה להחזרות למחסן      ,GABI.A    
+MBA       ,צבע להזרקה                    ,INBAR.Z   
+PKM       ,חומרי אריזה - בעבודה          ,INBAR.Z   
+PKM1      ,חומרי אריזה                   ,INBAR.Z   
+PUR-DEV   ,פריטי רכש בפיתוח              ,INBAR.Z   
+PUR100    ,רכש - כללי ברעם               ,INBAR.Z   
+Q         ,כניסה מרכש - קרנטינה          ,INBAR.Z   
+QDEV      ,כניסה מרכש לפריטים בפיתוח     ,INBAR.Z   
+RETURN    ,return                        ,INBAR.Z   
+RETURN3   ,return                        ,INBAR.Z   
+TOX       ,חומרים מסוכנים                ,INBAR.Z   
+VIRT      ,איתור לדוגמאות שנשלחו ללקוח   ,INBAR.Z   
+FLOOR-PURD,רצפה פריטי רכש בפיתוח         ,INBAR.Z   
+ASS       ,הרכבה מכנית                   ,INNA.F    
+SILO205.01,SILO205.01                    ,INNA.F    
+SILO205.02,SILO205.02                    ,INNA.F    
+SILO255.01,SILO255.01                    ,INNA.F    
+SILO206.01,SILO206.01                    ,INNA.F    
+SILO208.01,SILO208.01                    ,INNA.F    
+SILO208.02,SILO208.02                    ,INNA.F    
+SILO214.01,SILO214.01                    ,INNA.F    
+SILO216.01,SILO216.01                    ,INNA.F    
+SILO217.01,SILO217.01                    ,INNA.F    
+SILO218.01,SILO218.01                    ,INNA.F    
+SILO219.01,SILO219.01                    ,INNA.F    
+SILO220.01,SILO220.01                    ,INNA.F    
+SILO221.01,SILO221.01                    ,INNA.F    
+SILO222.01,SILO222.01                    ,INNA.F    
+SILO206.02,SILO206.02                    ,INNA.F    
+SILO257.01,SILO257.01                    ,INNA.F    
+SILO225.01,SILO214.01                    ,INNA.F    
+SILO225.02,SILO214.01                    ,INNA.F    
+LIQUID-CHG,"סיליקון, צבעים ומדלל - לוט חדש",INNA.M    
+PRM       ,מחלקה ידנית ברעם              ,INNA.M    
+SORT      ,מיון                          ,INNA.M    
+SORT-USW  ,מיון                          ,INNA.M    
+USW       ,קווי פיתוח                    ,INNA.M    
+SILO296.01,SILO296.01                    ,INNA.M    
+"2BRC      ",הפרדת מוצרים לא מתאימים       ,NATASHA.G 
+BBRUR     ,מוצרים בבירור                 ,NATASHA.G 
+BBRURQCASS,מוצרים בברור ה.איכות ה.מכנית  ,NATASHA.G 
+QC        ,ביקורת איכות רכש              ,NATASHA.G 
+QCASS     ,ביקורת איכות הרכבה מכנית      ,NATASHA.G 
+QCASS-DEV ,ביקורת הרכבה של פריטים בפיתוח ,NATASHA.G 
+QCDEV     ,ביקורת איכות - פריטים בפיתוח  ,NATASHA.G 
+QCHET     ,ביקורת איכות - רכיבים לחימום  ,NATASHA.G 
+QCHET-DEV ,בקורת איכות- רכיב מחומם בפיתוח,NATASHA.G 
+QCINJ     ,ביקורת איכות הזרקה            ,NATASHA.G 
+QCINJ-BTES,רכיבי הזרקה בתהליך בדיקות     ,NATASHA.G 
+QCINJ-DEV ,ביקורת הזרקה של פריטים בפיתוח ,NATASHA.G 
+QCINJPRM  ,ביקורת איכות - פעולה משלימה   ,NATASHA.G 
+QCINJPRMDV,DEV ביקורת איכות-פעולה משלימה ,NATASHA.G 
+QCPRM     ,ביקורת איכות הרכבה ידנית      ,NATASHA.G 
+QCPRM-DEV ,ביקורת הר' ידנית פריטים בפיתוח,NATASHA.G 
+QCUSW     ,ביקורת איכות קווי פיתוח       ,NATASHA.G 
+QCUSW-DEV ,ביקורת איכות קווי פיתוח- DEV  ,NATASHA.G 
+QCW       ,ביקורת הרכבה מכנית - בהמתנה   ,NATASHA.G 
+SORT-DEPT ,מיון במחלקת ייצור             ,NATASHA.G 
+PILOT     ,מחלקת ייצור נסיונות           ,RANDA.S   
+QCPILOT   ,ביקורת איכות מחלקת ניסיונות.  ,RANDA.S   
+ADA       ," אחסון ח""ג חיצוני זמני כ.מסריק",TAIR      
+EXP       ,איתור מבוטל-משמש לפריט שקר אחד,TAIR      
+NEWJER    ,בניו-ג'רסי בבעלות אלכםמדיקל אג,TAIR      
+PULSION   ,כניסה מרכש לפולסיון-לא בשימוש ,TAIR      
+RE-SALE   ,returned goods not in elcam   ,TAIR      
+SCRAP-ASS ,פחת הרכבה לא בשימוש           ,TAIR      
+SMP1      ,Samples - דוגמאות             ,TAIR      
+SMP2      ,Samples - דוגמאות             ,TAIR      
+SMP3      ,Samples - דוגמאות             ,TAIR      
+SMP4      ,Samples - דוגמאות             ,TAIR      
+SMP5      ,Samples - דוגמאות             ,TAIR      
+          ,אריזה לפריטים בפיתוח (DEV)    ,TAIR      
